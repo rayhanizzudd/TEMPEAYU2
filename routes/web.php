@@ -3,9 +3,17 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('home');
+    return view('home' , ['title' => 'Home Page'] );
 });
 
-Route::get('/home', function () {
-    return view('home');
+Route::get('/product', function () {
+    return view('product' , ['title' => 'Product']);
+});
+
+Route::get('/outlet', function () {
+    return view('outlet', ['title' => 'Outlet']);
+});
+
+Route::get('/location', function () {
+    return view('location', ['title' => 'Location']);
 });
