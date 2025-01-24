@@ -1,7 +1,7 @@
 <x-layout>
     <x-slot:title>{{ $title }}</x-slot:title>
 
-    <div class="h-screen flex items-center justify-center">
+    <div class="h-screen flex items-center justify-center bg-[url('https://s3-alpha-sig.figma.com/img/883c/0dbb/22a44184e35fe7d54cd0194cd75be229?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oB99yTtO74tLZhW0EEK32y~~Fh5Aq8u9ZvUZQ1EHtAP2oVW9m6Lk7yD-T0BNkMGPmZ55GqTsULq97ausRhM91V94A6jBFz4sWv-0BzZFSWbkrs5x7kB0h4BELWgL4gqL~gaGdO8ZkklFX3jxLkjGvLF5609xP22ERILqobo-aEBiTyUIwUVUp~Bu-RC509U9hY5a7KU8xnFYYhMx9Q7slHkyLwanp-JCV5KNaGVJqvTCcaSqvBRAzApmOem0cQcnAliHYRsuLwEXEOPuWTm6F-gWK-4aGeMkDq~5x1mmZHAH0ehIfmA4-M2HhJ3rxL-FpXeXbNCcqXiGH2QxPe0Q2w__')] bg-cover">
         <div class=" px-4 py-6 sm:px-6 lg:px-8  w-full flex flex-col items-center justify-center gap-20">
             <div class="text-center  px-32 font-light">
                 <div class="text-6xl font-semibold">TEMPE</div> <br>
