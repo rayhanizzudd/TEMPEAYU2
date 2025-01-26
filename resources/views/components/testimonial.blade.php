@@ -36,7 +36,7 @@
             }
         </style>
 
-        <section class="py-24 ">
+        <section class="py-24 fade-in">
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                 <div
                     class="mb-14 flex flex-col justify-center items-center sm:flex-row sm:items-center sm:justify-between max-sm:gap-8">
