@@ -1,28 +1,26 @@
 <x-layout>
 
-    <x-slot:title>{{ $title }}</x-slot:title>
+    <x-slot:title id="home">{{ $title }}</x-slot:title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-    <div
-        class=" h-screen flex items-center justify-center bg-amber-200">
+    <div class=" h-screen flex items-center justify-center bg-amber-200">
         <div class="fade-in px-4 py-6 sm:px-6 lg:px-8  w-full flex flex-col items-center justify-center gap-20">
             <div class="text-center  px-32 font-light">
                 <div class="text-6xl font-semibold">TEMPE</div> <br>
-                <div class="text-l font-medium">Tempe adalah sumber protein nabati yang tinggi, menjadikannya alternatif
-                    yang baik untuk pengganti daging bagi vegetarian dan vegan.</div>
+                <div class="text-xl">Tempe adalah makanan tradisional Indonesia yang berasal dari Jawa Tengah
+                    sejak tahun 1700-an. Dikenal sebagai makanan fermentasi dari kacang kedelai berkualitas, tempe
+                    menjadi sumber protein nabati yang kaya dan sehat. Inovasi tempe terus berkembang dengan berbagai
+                    bahan kacang-kacangan seperti kacang merah, memberikan variasi rasa dan nutrisi. </div>
             </div>
-            <div class="text-center  px-60 font-light">
-                <div class="text-6xl font-semibold">TEMPE AYU</div> <br>
-                <div class="text-l font-medium">Tempe ayu merupakan Tempe Sehat, Hiegenis, dan Original yang diproduksi
-                    sejak tahun 19. Tempe Ayu dahulunya bernama Tempe Supari yang merupakan salah satu produksi tempe
-                    terbesar di wilayah Lumajang, Turun temurun Tempe Supari berubah menjadi Tempe Ayu. </div>
+            <div class="text-center px-60 font-light">
+                <a href="#tempeayu" ><div class="text-xl font-semibold bg-amber-500 rounded-3xl py-2 px-4">Tempe Ayu --></div></a>
             </div>
         </div>
     </div>
 
-        <div class="h-screen p-20 ">
+    <div class="h-screen p-20 ">
         <div class="fade-in px-4 py-6 sm:px-6 lg:px-8 flex items-center justify-center h-full">
             <div class="text-center  font-light w-3/5 h-full flex items-center flex-col justify-center">
                 <div class="text-4xl font-semibold px-32 text-start">Kandungan Tempe per 100 Gram</div>
@@ -55,19 +53,19 @@
         </div>
     </div>
 
-    <div
-        class=" h-screen flex items-center justify-center bg-amber-200">
+    
+    <div class=" h-screen flex items-center justify-center bg-amber-200 " id="tempeayu">
         <div class="fade-in px-4 py-6 sm:px-6 lg:px-8  w-full flex flex-col items-center justify-center gap-20">
             <div class="text-center  px-32 font-light">
-                <div class="text-6xl font-semibold">TEMPE</div> <br>
-                <div class="text-l font-medium">Tempe adalah sumber protein nabati yang tinggi, menjadikannya alternatif
-                    yang baik untuk pengganti daging bagi vegetarian dan vegan.</div>
+                <div class="text-6xl font-semibold">TEMPE AYU</div> <br>
+                <div class="text-xl ">Tempe ayu merupakan Tempe Sehat, Hiegenis, dan Original yang diproduksi
+                    sejak tahun 19. Tempe Ayu dahulunya bernama Tempe Supari yang merupakan salah satu produksi tempe
+                    terbesar di wilayah Lumajang, Turun temurun Tempe Supari berubah menjadi Tempe Ayu. Tempe Ayu dengan
+                    bangga menghadirkan tempe berkualitas yang dibuat dari kedelai pilihan, menciptakan makanan lezat
+                    dan bergizi bagi masyarakat Indonesia.</div>
             </div>
             <div class="text-center  px-60 font-light">
-                <div class="text-6xl font-semibold">TEMPE AYU</div> <br>
-                <div class="text-l font-medium">Tempe ayu merupakan Tempe Sehat, Hiegenis, dan Original yang diproduksi
-                    sejak tahun 19. Tempe Ayu dahulunya bernama Tempe Supari yang merupakan salah satu produksi tempe
-                    terbesar di wilayah Lumajang, Turun temurun Tempe Supari berubah menjadi Tempe Ayu. </div>
+                <a href="/product"><div class="text-xl font-semibold bg-amber-500 rounded-3xl py-2 px-4">Lihat Produk --></div></a> <br>
             </div>
         </div>
     </div>
