@@ -2,7 +2,7 @@
     <x-slot:title>{{ $title }}</x-slot:title>
 
     <div class="min-h-screen bg-amber-200 flex justify-center">
-        <main class="container mx-auto p-32 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 ">
+        <main class="container mx-auto lg:p-32 p-16 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 ">
             <div class="max-w-sm flex flex-col bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
                 <div class="h-60 bg-red-200">
                     <img src="https://s3-alpha-sig.figma.com/img/1d30/ea53/e2e8b73f7de8c8d6b8f5a128f72fb499?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=B7D9iySklf~7VvPK5nVJwf1XewkesTEKmeAVNC6~W2Y1hoDe~MCWRBFt1mgCIT~Sp4vXprtjrItSI2M7HFaWTqkFAquXcolLOyF9Dc3tpk370ERlVPxgPkWK9tJUzrnCRP513v8KJi9vmuzVZEsmxPambuRs4FlEzmqVuDwNj5-TTs4YG30xJw-W70KyoJUkWGYwRuesjBtNnlclw7Adz3TYy4AmVMx0ghpPExeDzS2VbN1xf8x46XisAZprIVlmJQglNKCJk6bhFt~lCUPeWTQwVb9JbFGau0ey2b-zOTjRNbr-8OibDiYFHl5SABRgCCpM1oeErcxmEcxggw2Dmw__" class="h-full w-full object-cover rounded-t-lg" alt="">
