@@ -1,4 +1,4 @@
-  <header class="pt-16 bg-[url('https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/05/26053515/Murah-dan-Bergizi-Ini-7-Manfaat-Tempe-yang-Masih-Jarang-Diketahui-.jpg.webp')] bg-cover bg-center h-screen shadow">
+  <header class="bg-[url('https://s3-alpha-sig.figma.com/img/6e74/419d/e95094cd8efcda67c5f2854711ab45fc?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ti6QNL5PlPrv-p1T~YvckgGg7fmXcTLpIrx3ajVjhIY1DeIT1MdkYMYgGYM00ncFmCGDgHnQ7tFIibyvWlLShRcHBVL3PqVE1ryG-sk4cQX4MBTmNLWq0HBKzZ4mKLanZ4Kuvi6szazA57Qwwe27Hs8gNHHDqvWmCeSO0SsoAkpGL3ACIyhHcMLMrJG-zFc~a3WYAC-JIGLwUDAGgJU3nbSUVk-uWysNgOlHZY4hXAzleZId5u6LW-ER1wGCWwmNY1JHx1~jhLbl0NMnSWFesqZUVnQbY42DRI3Vi~BeVaPI0SiNVFsUP6PN-dHKlyEo~SU4VX7XAyVofvIgewWD5g__')] bg-cover bg-center w-full h-screen shadow pt-16">
     <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <h1 class="text-3xl font-bold tracking-tight text-white">{{ $slot }}</h1>
     </div>
