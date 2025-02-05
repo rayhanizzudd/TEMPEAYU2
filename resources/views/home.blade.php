@@ -5,7 +5,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-    <div class=" h-screen flex items-center justify-center bg-amber-200">
+    <div class=" h-screen flex items-center justify-center bg-amber-200 p-8">
         <div class="fade-in px-4 py-6 sm:px-6 lg:px-8  w-full flex flex-col items-center justify-center gap-20">
             <div class="text-center  lg:px-32 font-light">
                 <div class="text-6xl font-semibold">TEMPE</div> <br>
@@ -20,7 +20,7 @@
         </div>
     </div>
 
-    <div class="lg:h-screen lg:p-20 ">
+    <div class="lg:h-screen lg:p-20 p-8">
         <div class="fade-in px-4 py-6 sm:px-6 lg:px-8 max-lg:flex-col flex items-center justify-center h-full">
             <div class="text-center  font-light lg:w-3/5 h-full flex items-center flex-col justify-center">
                 <div class="text-4xl font-semibold lg:px-32 text-start">Kandungan Tempe per 100 Gram</div>
@@ -54,7 +54,7 @@
     </div>
 
     
-    <div class=" h-screen flex items-center justify-center bg-amber-200 " id="tempeayu">
+    <div class=" h-screen flex items-center justify-center bg-amber-200 p-8 " id="tempeayu">
         <div class="fade-in px-4 py-6 sm:px-6 lg:px-8  w-full flex flex-col items-center justify-center gap-20">
             <div class="text-center  lg:px-32 font-light">
                 <div class="text-6xl font-semibold">TEMPE AYU</div> <br>
@@ -70,7 +70,7 @@
         </div>
     </div>
 
-    <div class="h-screen lg:p-20">
+    <div class="h-screen lg:p-20 p-8">
         <div class="fade-in px-4 py-6 sm:px-6 lg:px-8 max-lg:flex-col flex items-center justify-center h-full">
             <div class="max-lg:hidden text-center lg:w-2/5 h-full overflow-hidden">
                 <div class="p-4 h-full flex flex-col justify-center">
@@ -101,7 +101,7 @@
     </div>
 
 
-    <div class="h-screen bg-amber-200">
+    <div class="h-screen bg-amber-200 p-8">
 
         <x-testimonial></x-testimonial>
     </div>

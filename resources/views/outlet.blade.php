@@ -2,7 +2,7 @@
     <x-slot:title>{{ $title }}</x-slot:title>
 
     <div class="min-h-screen bg-amber-200 ">
-        <div class="flex flex-col justify-center lg:px-32 p-16">
+        <div class="flex flex-col justify-center lg:px-32 p-8">
             <div class="text-center text-4xl font-medium mb-16 ">Kunjungi pada Outlet</div>
             <main class="container mx-auto  grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
                 <div
@@ -113,8 +113,8 @@
     </div>
 
     <div class="h-screen bg-amber-100 flex justify-center items-center">
-        <main class=" fade-in flex flex-col w-full lg:p-28 p-4">
-            <div class="flex max-lg:flex-col gap-20">
+        <main class=" fade-in flex flex-col w-full lg:p-28 p-8">
+            <div class="flex max-lg:flex-col lg:gap-20 gap-10">
                 <div class="w-full">
                     <h1 class="text-black text-4xl font-bold">Bergabung dengan Kami</h1> <br>
                     <h1 class="text-black text-l font-medium">Jl. Pancasila No.28, Krajan, Sumbermujur, Kec. Candipuro,
