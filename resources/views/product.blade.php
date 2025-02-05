@@ -2,7 +2,7 @@
     <x-slot:title>{{ $title }}</x-slot:title>
     <div class="min-h-screen bg-amber-200 flex justify-center">
 
-        <main class="px-32 flex flex-col fade-in py-16">
+        <main class="lg:px-32 flex flex-col fade-in py-16">
             <div class="w-full text-center text-4xl font-medium">TEMPE AYU</div>
             <div class="container mx-auto  grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 mt-14">
                 <div
@@ -50,7 +50,7 @@
     </div>
 
     <div class="min-h-screen bg-amber-100 flex justify-center">
-        <main class="px-32 flex flex-col fade-in py-16">
+        <main class="lg:px-32 flex flex-col fade-in py-16">
             <div class="w-full text-center text-4xl font-medium">KERING TEMPE AYU</div>
             <div class="container mx-auto  grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-10 mt-14">
                 <div

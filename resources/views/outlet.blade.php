@@ -113,8 +113,8 @@
     </div>
 
     <div class="h-screen bg-amber-100 flex justify-center items-center">
-        <main class=" fade-in flex flex-col w-full p-28">
-            <div class="flex flex-row gap-20">
+        <main class=" fade-in flex flex-col w-full lg:p-28 p-4">
+            <div class="flex max-lg:flex-col gap-20">
                 <div class="w-full">
                     <h1 class="text-black text-4xl font-bold">Bergabung dengan Kami</h1> <br>
                     <h1 class="text-black text-l font-medium">Jl. Pancasila No.28, Krajan, Sumbermujur, Kec. Candipuro,

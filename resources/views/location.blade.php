@@ -1,7 +1,7 @@
 <x-layout>
     <x-slot:title>{{ $title }}</x-slot:title>
     <div class="h-screen bg-amber-200">
-        <main class="fade-in pt-12 pl-32 pr-32 flex flex-col gap-5">
+        <main class="fade-in pt-12 lg:px-32 p-4 flex flex-col gap-5">
             <div class="text-4xl font-semibold">Temukan Kami di Sini</div>
             <div class="">Datang langsung ke Kami dan nikmati Tempe Ayu segar dari sumbernya. Kami menanti
                 kedatangan Anda!</div>
@@ -15,8 +15,8 @@
         </main>
     </div>
     <div class="h-screen bg-amber-100 flex justify-center items-center">
-        <main class=" fade-in flex flex-col w-full p-28">
-            <div class="flex flex-row gap-20">
+        <main class=" fade-in flex flex-col w-full lg:p-28 p-4">
+            <div class="flex max-lg:flex-col gap-20">
                 <div class="w-full">
                     <h1 class="text-black text-4xl font-bold">Hubungi Kami</h1> <br>
                     <h1 class="text-black text-l font-medium">Jl. Pancasila No.28, Krajan, Sumbermujur, Kec. Candipuro,
