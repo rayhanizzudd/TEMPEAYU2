@@ -74,8 +74,8 @@
         <div class="fade-in px-4 py-6 sm:px-6 lg:px-8 max-lg:flex-col flex items-center justify-center h-full">
             <div class="max-lg:hidden text-center lg:w-2/5 h-full overflow-hidden">
                 <div class="p-4 h-full flex flex-col justify-center">
-                    <img src="https://s3-alpha-sig.figma.com/img/5c95/60b4/898b8abdedaa19a2bfa3579a4802c18f?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ACaQV-0eceYHbtGt1nRxtv6zAaep97gzdqvs9DF50JcAPvIgVgjovzA-LJO0ayo5eF3y2Gg4n8oSyTa5BNhLCZxKrezUxoZLRzoCRtNSxIfj9kTLaLvQpY5H2-G2z4ybtseyKcI~-1bfLatGNEXvBxHCuJgg1~CvM~E9o-5zXkGhp6NibEYoG8PUQp56Kqnx9J2PnYnB8dAWSOpvf5MyVR97Ng7J9wMq1hwFwwJ8s1O1NpNTO6CobGpKGyEFVrrD0x0Oc2oOJtJQKMTSP2sJg39PhOTagOMmsqoPdiZDjoXw9TL7iQZDqzY2AXIsrqSMRAMoHQMOqk9sYCZBFH5L2A__"
-                        alt="Gambar Tempe" class="w-full h-3/5 max-w-full max-h-full ">
+                    <img src="/assets/adv2.jpg""
+                        alt="Gambar Tempe" class="w-full h-4/5 max-w-full max-h-full bg-cover border-2 border-black">
                     <div class="text-5xl font-bold">Tempe Ayu---</div>
                 </div>
             </div>

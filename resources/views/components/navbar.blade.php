@@ -3,7 +3,7 @@
       <div class="flex h-16 items-center justify-between">
         <div class="flex items-center justify-between w-full">
           <div class="shrink-0">
-            <a href="#home"><img class=" w-40" src="https://s3-alpha-sig.figma.com/img/80e1/e408/97d1bc89710a1aab0851cea0e9002f9b?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n3DFN3zyYPDmWorAP15cEqQq2fS3qeIpvwc8dHMLmAk3mDgKCSQ0QbWoo9QHDnWJgSJbxOMIIlVnWHhYwdDsl48nI4Q-qWKsuz2HOr8KxqermOEkkyNe7xC0cQHn0ef4f3c9Nf3xodog2oRPSgLNYqdck-5KLdLNfCSO~EddU7sMJxEUhxeso4vDLfaawDIl9JrB0JgFsELuIwrPbQ2DDLu13wk4SbTYhSJBSN9v~l7AvqR2oT7BHlLRTmZHhffd~Unw92uJVVHRwGaML2kucrDqT6zpoTRTJSRx4gOxeATEEcYzbb3kSp3QJiDeOmtmpn0ZBFupzvgRJJ9~9AACLg__" alt="Your Company"></a>
+            <a href="#home"><img class=" w-40" src="/assets/logo.png"  alt="Your Company"></a>
           </div>
           <div class="hidden md:block">
             <div class="ml-10 flex items-baseline space-x-4">
